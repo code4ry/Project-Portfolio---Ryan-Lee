@@ -42,6 +42,8 @@ def ai_learn(line, answer):
     listString.append(n)
   if Win == False and continued == False:
     listString.remove(str(answer))
+  elif Win == True and continued == False:
+    listString.append(str(answer))
   theString = ""
   for n in listString:
     theString += n
