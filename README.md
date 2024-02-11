@@ -6,5 +6,3 @@ Information Technology from information architecture to using GitHub and Microso
 **S&P 500 Machine Learning Model:**
 
   This was a great project that helped me break into Machine Learning/AI model! 
-
-  
