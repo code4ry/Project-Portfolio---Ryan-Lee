@@ -5,4 +5,10 @@ Information Technology from information architecture to using GitHub and Microso
 
 **S&P 500 Machine Learning Model:**
 
-  This was a great project that helped me break into Machine Learning/AI model! 
+  This was a great project that helped me break into Machine Learning/AI model! The project involves programming in Python and utilizing Jupyter Notebooks to create a machine learning regression model. The model focuses on predicting outcomes based on a dataset spanning 100 years of S&P 500 data. Initially, the model was trained using the random forest algorithm, achieving an accuracy of 57%. Subsequent improvements were made by incorporating additional predictors and conducting back testing, resulting in an enhanced model performance.
+
+
+
+
+
+
